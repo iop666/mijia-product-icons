@@ -1,20 +1,20 @@
-# 米家产品图标库 · mijia-product-icons
+# 米家产品示例样图库 · mijia-product-icons
 
-> 米家（Xiaomi Mi Home）在架产品图标快照库。图片与配套清单已按大类整理，供个人学习、研究与软件测试使用。
+> 米家（Xiaomi Mi Home）在架产品示例样图快照库。图片与配套清单已按大类整理，供个人学习、研究与软件测试使用。
 
 - 数据来源：米家百科公开产品库 <https://home.mi.com/webapp/content/baike/index.html#/>
 - 快照日期：**2026-09-03**（当天从在线产品库接口采集，属"在架产品库"时点快照）
-- 覆盖范围：**17 个大类 / 10,239 个产品型号 / 10,238 张图标**（其中 1 个型号采集时无图，位于"环境电器"类）
+- 覆盖范围：**17 个大类 / 10,239 个产品型号 / 10,238 张示例样图**（其中 1 个型号采集时无图，位于"环境电器"类）
 - 图片格式：按原始图片实际格式保存，扩展名为 `.png` / `.jpg` / `.gif` / `.webp`
-- 文件命名：图标文件名 = 产品型号，例如 `zhimi.heater.za1.png`
+- 文件命名：示例样图文件名 = 产品型号，例如 `zhimi.heater.za1.png`
 - Windows 检出说明：有 2 张图片的文件名以 Windows 保留设备名 `aux.` 开头（`aux.aircondition.hc1.png`、`aux.aircondition.v1.png`，属"环境电器"类），Windows 无法检出/解压此类文件名，已从仓库目录树剔除；完整 10,238 张均包含在 Releases 压缩包中
 
 ## 目录结构
 
 ```
 ├─ README.md
-├─ 全部图标/            10,236 张图标（扁平存放，按型号命名）
-├─ 分类图标/            按大类归类的图标
+├─ 全部示例样图/            10,236 张示例样图（扁平存放，按型号命名）
+├─ 分类示例样图/            按大类归类的示例样图
 │   ├─ 插座开关/
 │   ├─ 照明/
 │   ├─ 环境电器/
@@ -25,9 +25,9 @@
     └─ 按大类/<大类>.csv
 ```
 
-## 各大类图标数量
+## 各大类示例样图数量
 
-| 大类 | 图标数（张） |
+| 大类 | 示例样图数（张） |
 |---|---:|
 | 插座开关 | 2676 |
 | 照明 | 1994 |
@@ -48,7 +48,7 @@
 | 其他 | 31 |
 | **合计** | **10238** |
 
-> 注：以上为素材总量（与各压缩包、清单一致）。其中"环境电器"类的 2 张 `aux.*` 图片因 Windows 保留设备名无法检出，仓库内 `全部图标/` 与 `分类图标/` 各收录 10,236 张；全部 10,238 张在 Releases 压缩包中均可获取。
+> 注：以上为素材总量（与各压缩包、清单一致）。其中"环境电器"类的 2 张 `aux.*` 图片因 Windows 保留设备名无法检出，仓库内 `全部示例样图/` 与 `分类示例样图/` 各收录 10,236 张；全部 10,238 张在 Releases 压缩包中均可获取。
 
 ## 清单字段
 
@@ -56,10 +56,10 @@
 
 ## 应用信息
 
-- 该图标库服务于 **MiHome-Windows（本地修改版）**（<https://github.com/iop666/MiHome-Windows>）：用作其虚拟测试家庭（mock）的离线产品图与图标缓存素材；
-- 采集、下载、清单生成脚本位于上述应用仓库的 `mock_packs/` 目录（`scrape_baike.py`、`download_icons.py`、`fetch_all_product_images.py`、`gen_manifests.py`）；
+- 该示例样图库服务于 **MiHome-Windows（custom 版）**（<https://github.com/iop666/MiHome-Windows>）：用作其虚拟测试家庭（mock）的离线产品样图素材；
+- 素材采集与清单整理脚本为一次性工具，未随本仓库分发；
 - 本仓库整理工作由 DeepSeek Harness 辅助完成；
-- 大体积打包文件（`MiHome-icons-ALL.zip` 全部图标包、17 个按大类压缩包）存放于本仓库 Releases：<https://github.com/iop666/mijia-product-icons/releases>
+- 大体积打包文件（`MiHome-icons-ALL.zip` 全部示例样图包、17 个按大类压缩包）存放于本仓库 Releases：<https://github.com/iop666/mijia-product-icons/releases>
 
 ## 版权与使用声明
 
