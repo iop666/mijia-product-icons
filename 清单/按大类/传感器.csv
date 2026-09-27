@@ -1,172 +1,194 @@
-﻿大类,品牌,产品名称,型号,图片文件名
-传感器,Anseny,Anseny室内温湿度计CX0121B,anseny.sensor_ht.0121b,anseny.sensor_ht.0121b.png
-传感器,Anseny,Anseny室内温湿度计CX0311B,anseny.sensor_ht.0311b,anseny.sensor_ht.0311b.png
-传感器,Anseny,Anseny室内温湿度计CX0314B,anseny.sensor_ht.0314b,anseny.sensor_ht.0314b.png
-传感器,Anseny,Anseny室内温湿度计CX0710B,anseny.sensor_ht.cx0710,anseny.sensor_ht.cx0710.png
-传感器,Anseny,Anseny室内温湿度计CX920B,anseny.sensor_ht.cx920b,anseny.sensor_ht.cx920b.png
-传感器,Aqara,Aqara 人体传感器 E1,lumi.motion.acn001,lumi.motion.acn001.png
-传感器,Aqara,Aqara 天然气报警器,lumi.sensor_gas.acn02,lumi.sensor_gas.acn02.png
-传感器,Aqara,Aqara 水浸传感器 E1,lumi.flood.acn001,lumi.flood.acn001.png
-传感器,Aqara,Aqara 门窗传感器 E1,lumi.magnet.acn001,lumi.magnet.acn001.png
-传感器,Aqara,Aqara人体传感器,lumi.sensor_motion.aq2,lumi.sensor_motion.aq2.png
-传感器,Aqara,Aqara动静贴,lumi.vibration.aq1,lumi.vibration.aq1.png
-传感器,Aqara,Aqara动静贴T1,lumi.vibration.agl01,lumi.vibration.agl01.png
-传感器,Aqara,Aqara水浸传感器,lumi.sensor_wleak.aq1,lumi.sensor_wleak.aq1.png
-传感器,Aqara,Aqara温湿度传感器,lumi.weather.v1,lumi.weather.v1.png
-传感器,Aqara,Aqara烟雾报警器,lumi.sensor_smoke.acn03,lumi.sensor_smoke.acn03.png
-传感器,Aqara,Aqara烟雾报警器（NB-IoT版）,lumi.sensor_smoke.acn01,lumi.sensor_smoke.acn01.png
-传感器,Aqara,Aqara门窗传感器,lumi.sensor_magnet.aq2,lumi.sensor_magnet.aq2.png
-传感器,Aqara,天然气报警器,lumi.sensor_natgas.v1,lumi.sensor_natgas.v1.png
-传感器,Aqara,烟雾报警器,lumi.sensor_smoke.v1,lumi.sensor_smoke.v1.png
-传感器,LOEASE乐易仕,乐易仕智能温湿度计T35,loease.sensor_ht.t49bt,loease.sensor_ht.t49bt.png
-传感器,LUMIVATOR,LUMIVATOR光伏智能体感温湿度计LV-WS001,trony.sensor_ht.lvws01,trony.sensor_ht.lvws01.png
-传感器,LineHope,LineHope人体移动传感器TR1,line.motion.tr1,line.motion.tr1.png
-传感器,LineHope,LineHope水浸传感器TW1,line.flood.tw1,line.flood.tw1.png
-传感器,LineHope,LineHope温湿度传感器TH1,line.sensor_ht.th1,line.sensor_ht.th1.png
-传感器,LineHope,LineHope温湿度传感器TH1S,line.sensor_ht.th1s,line.sensor_ht.th1s.png
-传感器,LineHope,LineHope门窗传感器TM1,line.magnet.tm1,line.magnet.tm1.png
-传感器,MIANCHU,MIANCHU免触传感器Mesh版,mipin.sensor_occupy.mc2,mipin.sensor_occupy.mc2.png
-传感器,MIANCHU,MIANCHU免触传感器标准版,mipin.motion.mc1,mipin.motion.mc1.png
-传感器,MiKO,MiKO小方形温湿度计,hccy.sensor_ht.mikos,hccy.sensor_ht.mikos.png
-传感器,PTX,PTX 人体存在传感器,090615.sensor_occupy.mw,090615.sensor_occupy.mw.png
-传感器,PTX,平头熊人体存在传感器(顶装版),090615.sensor_occupy.xw,090615.sensor_occupy.xw.png
-传感器,ProTap,ProTap蓝牙温湿度计E1mini,ptkj.sensor_ht.e1mini,ptkj.sensor_ht.e1mini.png
-传感器,ProTap,ProTap蓝牙温湿度计T1,ptkj.sensor_ht.t1,ptkj.sensor_ht.t1.png
-传感器,RITERS,RITERS温湿度计2351,riters.sensor_ht.2351,riters.sensor_ht.2351.png
-传感器,RSH,RSH蓝牙温湿度计,qjiang.sensor_ht.002,qjiang.sensor_ht.002.png
-传感器,RTTPP R,多瑞燃气报警器,rttrp.sensor_gas.jy500,rttrp.sensor_gas.jy500.png
-传感器,SWANHOME,SWAN HOME人体存在传感器,zksq.sensor_occupy.s2,zksq.sensor_occupy.s2.png
-传感器,U-FAMILY,U-FAMILY WiFi 温湿度传感器U1,guixin.sensor_ht.wsdu1,guixin.sensor_ht.wsdu1.png
-传感器,USP国际电工,USP国际电工水浸传感器,zhiee.flood.sj01,zhiee.flood.sj01.png
-传感器,USP国际电工,USP国际电工门窗传感器,zhiee.magnet.mc01,zhiee.magnet.mc01.png
-传感器,Yeelight,Yeelight Pro 人体传感器,yeelink.motion.ymt02,yeelink.motion.ymt02.png
-传感器,Yeelight,Yeelight Pro 门窗传感器,yeelink.magnet.ycs02,yeelink.magnet.ycs02.png
-传感器,Yeelight,Yeelight Z系列人在传感器,yeelink.sensor_occupy.1,yeelink.sensor_occupy.1.png
-传感器,Yeelight,Yeelight 人体存在传感器,yeelink.sensor_occupy.a,yeelink.sensor_occupy.a.png
-传感器,ZUZW,ZUZW智能蓝牙温湿度计,yutai.sensor_ht.wsd01,yutai.sensor_ht.wsd01.png
-传感器,Zhiee,百将温湿度传感器,zhiee.sensor_ht.wsdj01,zhiee.sensor_ht.wsdj01.png
-传感器,deli,得力蓝牙款电子温湿度计LE523BT,deli.sensor_ht.523bt,deli.sensor_ht.523bt.png
-传感器,iotperfect,IoTPERFECT水浸传感器S01D,iotpfk.flood.001,iotpfk.flood.001.png
-传感器,linptech,人体存在传感器（顶装PLC版）,linp.sensor_occupy.hb04,linp.sensor_occupy.hb04.png
-传感器,linptech,领普人体存在传感器ES3,linp.sensor_occupy.es2,linp.sensor_occupy.es2.png
-传感器,linptech 领普,领普人体传感器,linp.motion.h1,linp.motion.h1.png
-传感器,linptech 领普,领普人体传感器2,linp.motion.hs1bb1,linp.motion.hs1bb1.png
-传感器,linptech 领普,领普人体传感器3,linp.motion.hs1bb2,linp.motion.hs1bb2.png
-传感器,linptech 领普,领普人体存在传感器,linp.sensor_occupy.hb01,linp.sensor_occupy.hb01.png
-传感器,linptech 领普,领普人体存在传感器ES2,linp.sensor_occupy.es2b,linp.sensor_occupy.es2b.png
-传感器,linptech 领普,领普人体存在传感器ES5,linp.sensor_occupy.es5b,linp.sensor_occupy.es5b.png
-传感器,linptech 领普,领普人体存在传感器ES5（顶装版）,linp.sensor_occupy.es4b,linp.sensor_occupy.es4b.png
-传感器,linptech 领普,领普压力有无传感器,linp.senpres.ps1bb,linp.senpres.ps1bb.png
-传感器,linptech 领普,领普无线开关KS1Pro,linp.sensor_ht.ks1bp,linp.sensor_ht.ks1bp.png
-传感器,linptech 领普,领普水浸及雨水传感器,linp.flood.rs1bb,linp.flood.rs1bb.png
-传感器,linptech 领普,领普温湿度传感器,linp.sensor_ht.ks2bb,linp.sensor_ht.ks2bb.png
-传感器,linptech 领普,领普门窗传感器,linp.magnet.m1,linp.magnet.m1.png
-传感器,mitch,mitch人体存在传感器,googo.sensor_occupy.cgq,googo.sensor_occupy.cgq.png
-传感器,乐天派,乐天派人在传感器Air,rhj.sensor_occupy.l730b,rhj.sensor_occupy.l730b.png
-传感器,乐天派,乐天派人在传感器POP,rhj.sensor_occupy.l730a,rhj.sensor_occupy.l730a.png
-传感器,乐天派,乐天派人在传感器POP2,rhj.sensor_occupy.l730d,rhj.sensor_occupy.l730d.png
-传感器,乐天派,乐天派存在传感器Box,rhj.sensor_occupy.l730,rhj.sensor_occupy.l730.png
-传感器,其他品牌,AInice三体场景传感器,ainice.sensor_occupy.3b,ainice.sensor_occupy.3b.png
-传感器,其他品牌,AInice人体传感器,ainice.motion.bt,ainice.motion.bt.png
-传感器,其他品牌,AInice双存在传感器,ainice.sensor_occupy.rd,ainice.sensor_occupy.rd.png
-传感器,其他品牌,AInice电子围栏传感器,ainice.sensor_occupy.bt,ainice.sensor_occupy.bt.png
-传感器,其他品牌,Gra人体存在传感器V1（BLE）,giot.sensor_occupy.v1ps,giot.sensor_occupy.v1ps.png
-传感器,其他品牌,LX存在传感器,lxun.sensor_occupy.cz01,lxun.sensor_occupy.cz01.png
-传感器,其他品牌,MiKO蓝牙温湿度计,hccy.sensor_ht.3bx321,hccy.sensor_ht.3bx321.png
-传感器,其他品牌,QUMI趣米人体存在传感器,qjiang.sensor_occupy.qj,qjiang.sensor_occupy.qj.png
-传感器,其他品牌,云檬宝 燃气报警器,mingpu.sensor_gas.det1,mingpu.sensor_gas.det1.png
-传感器,其他品牌,博瑞思人体存在传感器,brains.sensor_occupy.r4,brains.sensor_occupy.r4.png
-传感器,其他品牌,子擎存在传感器 Lite,izq.sensor_occupy.24,izq.sensor_occupy.24.png
-传感器,其他品牌,得力温湿度计LE508,yoda.sensor_ht.le508,yoda.sensor_ht.le508.png
-传感器,其他品牌,情景存在传感器,lemesh.sensor_occupy.s3,lemesh.sensor_occupy.s3.png
-传感器,其他品牌,烟雾传感器,mirsz.sensor_smoke.s500,mirsz.sensor_smoke.s500.png
-传感器,其他品牌,燃气传感器,mirsz.sensor_gas.ga500,mirsz.sensor_gas.ga500.png
-传感器,其他品牌,罗威亚水浸传感器,mirsz.flood.wa500,mirsz.flood.wa500.png
-传感器,其他品牌,罗威亚温湿度传感器,mirsz.sensor_ht.te500,mirsz.sensor_ht.te500.png
-传感器,其他品牌,罗威亚温湿度传感器（无屏）,mirsz.sensor_ht.te110,mirsz.sensor_ht.te110.png
-传感器,其他品牌,罗威亚红外人体移动传感器,mirsz.motion.ir500,mirsz.motion.ir500.png
-传感器,其他品牌,罗威亚门窗传感器,mirsz.magnet.mc500,mirsz.magnet.mc500.png
-传感器,其他品牌,迈睿人体存在传感器M1,merryt.sensor_occupy.m1,merryt.sensor_occupy.m1.png
-传感器,子擎,子擎存在传感器 Ceiling,izq.sensor_occupy.24n,izq.sensor_occupy.24n.png
-传感器,子擎,子擎存在传感器 Loong,izq.sensor_occupy.ble,izq.sensor_occupy.ble.png
-传感器,子擎,子擎存在传感器 Solo,izq.sensor_occupy.solo,izq.sensor_occupy.solo.png
-传感器,子擎,子擎存在传感器 Trio,izq.sensor_occupy.trio,izq.sensor_occupy.trio.png
-传感器,小米出品,小米人体传感器,lumi.sensor_motion.v2,lumi.sensor_motion.v2.png
-传感器,小米出品,小米人体传感器2,lumi.motion.bmgl01,lumi.motion.bmgl01.png
-传感器,小米出品,小米人体传感器2S,xiaomi.motion.pir1,xiaomi.motion.pir1.png
-传感器,小米出品,小米人在传感器,xiaomi.sensor_occupy.03,xiaomi.sensor_occupy.03.png
-传感器,小米出品,小米人在传感器Pro,xiaomi.sensor_occupy.p1,xiaomi.sensor_occupy.p1.png
-传感器,小米出品,小米光照传感器,lumi.sen_ill.mgl01,lumi.sen_ill.mgl01.png
-传感器,小米出品,小米天然气卫士,lumi.sensor_gas.mcn02,lumi.sensor_gas.mcn02.png
-传感器,小米出品,小米水浸卫士,lumi.flood.bmcn01,lumi.flood.bmcn01.png
-传感器,小米出品,小米水浸卫士2,xiaomi.flood.oh83w,xiaomi.flood.oh83w.png
-传感器,小米出品,小米温湿度传感器,lumi.sensor_ht.v1,lumi.sensor_ht.v1.png
-传感器,小米出品,小米烟感卫士,lumi.sensor_smoke.mcn02,lumi.sensor_smoke.mcn02.png
-传感器,小米出品,小米烟感卫士2,xiaomi.sensor_smoke.yg2,xiaomi.sensor_smoke.yg2.png
-传感器,小米出品,小米电子温湿度计,miaomiaoce.sensor_ht.t6,miaomiaoce.sensor_ht.t6.png
-传感器,小米出品,小米米家电子温湿度计Pro,miaomiaoce.sensor_ht.t8,miaomiaoce.sensor_ht.t8.png
-传感器,小米出品,小米米家蓝牙温湿度计2,miaomiaoce.sensor_ht.t2,miaomiaoce.sensor_ht.t2.png
-传感器,小米出品,小米门窗传感器,lumi.sensor_magnet.v2,lumi.sensor_magnet.v2.png
-传感器,小米出品,小米门窗传感器2,isa.magnet.dw2hl,isa.magnet.dw2hl.png
-传感器,小米出品,米家智能温湿度计3,miaomiaoce.sensor_ht.t9,miaomiaoce.sensor_ht.t9.png
-传感器,小米出品,米家智能温湿度计3 mini,xiaomi.sensor_ht.mini,xiaomi.sensor_ht.mini.png
-传感器,小米出品,米家蓝牙温湿度计,cleargrass.sensor_ht.dk1,cleargrass.sensor_ht.dk1.png
-传感器,峥果,峥果温湿度计,zinguo.sensor_ht.t5,zinguo.sensor_ht.t5.png
-传感器,德力西电气,德力西电气智能温湿度计DM-1095,yqll.sensor_ht.dm1095,yqll.sensor_ht.dm1095.png
-传感器,执梦,执梦人体存在传感器,zywjw.sensor_occupy.c01,zywjw.sensor_occupy.c01.png
-传感器,执梦,执梦门磁传感器,zywjw.magnet.zmmc,zywjw.magnet.zmmc.png
-传感器,文光汇,文光汇温湿度计,sixwgh.sensor_ht.v1,sixwgh.sensor_ht.v1.png
-传感器,斯曼诺客,SMLK门控传感器,giot.magnet.mkcgq,giot.magnet.mkcgq.png
-传感器,斯曼诺客,SMLK门控传感器V1,giot.magnet.mkcgq1,giot.magnet.mkcgq1.png
-传感器,方舟鱼,方舟鱼人体移动传感器TR1,line.motion.ftr1,line.motion.ftr1.png
-传感器,方舟鱼,方舟鱼水浸传感器TW1,line.flood.ftw1,line.flood.ftw1.png
-传感器,方舟鱼,方舟鱼温湿度传感器TH1,line.sensor_ht.fth1,line.sensor_ht.fth1.png
-传感器,方舟鱼,方舟鱼温湿度传感器TH1S,line.sensor_ht.fth1s,line.sensor_ht.fth1s.png
-传感器,方舟鱼,方舟鱼门窗传感器TM1,line.magnet.ftm1,line.magnet.ftm1.png
-传感器,易慧家,易慧家雨水传感器3S,evecca.flood.rs001,evecca.flood.rs001.png
-传感器,易知,易探人体存在传感器EDQ201-M,ed01.sensor_occupy.ed36,ed01.sensor_occupy.ed36.png
-传感器,易知,易探人体存在传感器EDQ25M,ed01.sensor_occupy.ytld,ed01.sensor_occupy.ytld.png
-传感器,智拉斐,智拉斐门磁传感器,slf.magnet.mc02,slf.magnet.mc02.png
-传感器,杜克,杜克TH2墨水屏时钟温湿度计,duka.sensor_ht.th2,duka.sensor_ht.th2.png
-传感器,柏晶,柏晶人体存在传感器,bogin8.sensor_occupy.bj,bogin8.sensor_occupy.bj.png
-传感器,树色,树色太阳能人体及雨水传感器（BLE）,shuse.motion.ss20,shuse.motion.ss20.png
-传感器,树色,树色水浸传感器Pro（BLE）,shuse.flood.sssj,shuse.flood.sssj.png
-传感器,树色,树色水浸传感器Slim（BLE）,shuse.flood.ss40,shuse.flood.ss40.png
-传感器,树色,树色水浸传感器（BLE）,shuse.flood.ss05,shuse.flood.ss05.png
-传感器,树色,树色门磁传感器 （BLE）,shuse.magnet.ss03,shuse.magnet.ss03.png
-传感器,树色,树色门磁传感器Pro（BLE）,shuse.magnet.ssmc,shuse.magnet.ssmc.png
-传感器,欧微灵科,欧微灵科人体红外传感器,hly.sensor_occupy.m04lb,hly.sensor_occupy.m04lb.png
-传感器,温度精灵,温度精灵温湿度计KD30,yongsh.sensor_ht.kd30,yongsh.sensor_ht.kd30.png
-传感器,温度精灵,温度精灵温湿度计ST34,yongsh.sensor_ht.st34,yongsh.sensor_ht.st34.png
-传感器,温度精灵,温度精灵温湿度计ST60,yongsh.sensor_ht.st60,yongsh.sensor_ht.st60.png
-传感器,温度精灵,温度精灵温湿度计ST70,yongsh.sensor_ht.st70,yongsh.sensor_ht.st70.png
-传感器,温心室爱,温心室爱温湿度计ZP-CDA05,zipu.sensor_ht.cda05,zipu.sensor_ht.cda05.png
-传感器,炎米,炎米智能温湿度计,ym001.sensor_ht.ymwsdj,ym001.sensor_ht.ymwsdj.png
-传感器,狄耐克,狄耐克人体存在传感器,dnake.sensor_occupy.cz1,dnake.sensor_occupy.cz1.png
-传感器,目博士,目博士温湿度计MBS-16,vchon.sensor_ht.mbs16,vchon.sensor_ht.mbs16.png
-传感器,目博士,目博士温湿度计MBS-17,vchon.sensor_ht.mbs17,vchon.sensor_ht.mbs17.png
-传感器,目博士,目博士温湿度计MBS-20,vchon.sensor_ht.mbs20,vchon.sensor_ht.mbs20.png
-传感器,目博士,目博士温湿度计MBS-7,vchon.sensor_ht.mbs7,vchon.sensor_ht.mbs7.png
-传感器,秒秒测,秒秒测智能语音闹钟,miaomiaoce.sensor_ht.a1,miaomiaoce.sensor_ht.a1.png
-传感器,秒秒测,秒秒测蓝牙温湿度计,miaomiaoce.sensor_ht.h1,miaomiaoce.sensor_ht.h1.png
-传感器,秒秒测,秒秒测蓝牙温湿度计2,miaomiaoce.sensor_ht.t4,miaomiaoce.sensor_ht.t4.png
-传感器,罗威亚,罗威亚人体存在传感器MIR-HE1-BT,mirsz.sensor_occupy.h01,mirsz.sensor_occupy.h01.png
-传感器,罗威亚,罗威亚门窗开关传感器,mirsz.magnet.yf4,mirsz.magnet.yf4.png
-传感器,美德时,美德时蓝牙温湿度计TH7M,anymetre.sensor_ht.th7m,anymetre.sensor_ht.th7m.png
-传感器,苏米科技,苏米存在传感器,xhuan.sensor_occupy.s01,xhuan.sensor_occupy.s01.png
-传感器,莱盾,LD人体存在传感器（BLE）,laidun.sensor_occupy.02,laidun.sensor_occupy.02.png
-传感器,菱敏,菱敏人在传感器,rinmin.sensor_occupy.lm,rinmin.sensor_occupy.lm.png
-传感器,觅感,MG人体存在传感器V2（BLE）,ms2021.sensor_occupy.mg,ms2021.sensor_occupy.mg.png
-传感器,迪智客,迪智客存在传感器DK21,jysj.sensor_occupy.dk21,jysj.sensor_occupy.dk21.png
-传感器,钻石,钻石水浸传感器,uimeen.flood.rmsjb,uimeen.flood.rmsjb.png
-传感器,雁派,雁派门磁传感器,zlyj88.magnet.ypmc1,zlyj88.magnet.ypmc1.png
-传感器,霍尼韦尔,家用可燃气体探测器,yuemee.sensor_gas.56712,yuemee.sensor_gas.56712.png
-传感器,青萍,李吉他蓝牙温湿度计,cgllc.sensor_ht.cgm1,cgllc.sensor_ht.cgm1.png
-传感器,青萍,青萍动作和环境光传感器,cgllc.motion.cgpr1,cgllc.motion.cgpr1.png
-传感器,青萍,青萍温湿度计 Lite（7 号电池）,cgllc.sensor_ht.cgdk3,cgllc.sensor_ht.cgdk3.png
-传感器,青萍,青萍温湿度计（7 号电池）,cgllc.sensor_ht.cgg3,cgllc.sensor_ht.cgg3.png
-传感器,青萍,青萍蓝牙温湿度计Lite（纽扣电池）,cgllc.sensor_ht.dk2,cgllc.sensor_ht.dk2.png
-传感器,青萍,青萍蓝牙温湿度计（纽扣电池）,cgllc.sensor_ht.qpg1,cgllc.sensor_ht.qpg1.png
-传感器,青萍,青萍门窗开合传感器,cgllc.magnet.hodor,cgllc.magnet.hodor.png
-传感器,高事达,高事达PLC人体存在传感器(24G),gaosd.sensor_occupy.grd,gaosd.sensor_occupy.grd.png
-传感器,麦乐克,罗威亚TE700温湿度传感器,mirsz.sensor_ht.ht02,mirsz.sensor_ht.ht02.png
+﻿大类,品牌,产品名称,型号,图片文件名,备注
+传感器,Anseny,Anseny室内温湿度计CX0121B,anseny.sensor_ht.0121b,anseny.sensor_ht.0121b.png,
+传感器,Anseny,Anseny室内温湿度计CX0311B,anseny.sensor_ht.0311b,anseny.sensor_ht.0311b.png,
+传感器,Anseny,Anseny室内温湿度计CX0314B,anseny.sensor_ht.0314b,anseny.sensor_ht.0314b.png,
+传感器,Anseny,Anseny室内温湿度计CX0710B,anseny.sensor_ht.cx0710,anseny.sensor_ht.cx0710.png,
+传感器,Anseny,Anseny室内温湿度计CX920B,anseny.sensor_ht.cx920b,anseny.sensor_ht.cx920b.png,
+传感器,Aqara,Aqara 人体传感器 E1,lumi.motion.acn001,lumi.motion.acn001.png,
+传感器,Aqara,Aqara 天然气报警器,lumi.sensor_gas.acn02,lumi.sensor_gas.acn02.png,
+传感器,Aqara,Aqara 水浸传感器 E1,lumi.flood.acn001,lumi.flood.acn001.png,
+传感器,Aqara,Aqara 门窗传感器 E1,lumi.magnet.acn001,lumi.magnet.acn001.png,
+传感器,Aqara,Aqara人体传感器,lumi.sensor_motion.aq2,lumi.sensor_motion.aq2.png,
+传感器,Aqara,Aqara动静贴,lumi.vibration.aq1,lumi.vibration.aq1.png,
+传感器,Aqara,Aqara动静贴T1,lumi.vibration.agl01,lumi.vibration.agl01.png,
+传感器,Aqara,Aqara水浸传感器,lumi.sensor_wleak.aq1,lumi.sensor_wleak.aq1.png,
+传感器,Aqara,Aqara温湿度传感器,lumi.weather.v1,lumi.weather.v1.png,
+传感器,Aqara,Aqara烟雾报警器,lumi.sensor_smoke.acn03,lumi.sensor_smoke.acn03.png,
+传感器,Aqara,Aqara烟雾报警器（NB-IoT版）,lumi.sensor_smoke.acn01,lumi.sensor_smoke.acn01.png,
+传感器,Aqara,Aqara门窗传感器,lumi.sensor_magnet.aq2,lumi.sensor_magnet.aq2.png,
+传感器,Aqara,天然气报警器,lumi.sensor_natgas.v1,lumi.sensor_natgas.v1.png,
+传感器,Aqara,烟雾报警器,lumi.sensor_smoke.v1,lumi.sensor_smoke.v1.png,
+传感器,LOEASE乐易仕,乐易仕智能温湿度计T35,loease.sensor_ht.t49bt,loease.sensor_ht.t49bt.png,
+传感器,LUMIVATOR,LUMIVATOR光伏智能体感温湿度计LV-WS001,trony.sensor_ht.lvws01,trony.sensor_ht.lvws01.png,
+传感器,LineHope,LineHope人体移动传感器TR1,line.motion.tr1,line.motion.tr1.png,
+传感器,LineHope,LineHope水浸传感器TW1,line.flood.tw1,line.flood.tw1.png,
+传感器,LineHope,LineHope温湿度传感器TH1,line.sensor_ht.th1,line.sensor_ht.th1.png,
+传感器,LineHope,LineHope温湿度传感器TH1S,line.sensor_ht.th1s,line.sensor_ht.th1s.png,
+传感器,LineHope,LineHope门窗传感器TM1,line.magnet.tm1,line.magnet.tm1.png,
+传感器,MIANCHU,MIANCHU免触传感器Mesh版,mipin.sensor_occupy.mc2,mipin.sensor_occupy.mc2.png,
+传感器,MIANCHU,MIANCHU免触传感器标准版,mipin.motion.mc1,mipin.motion.mc1.png,
+传感器,MiKO,MiKO小方形温湿度计,hccy.sensor_ht.mikos,hccy.sensor_ht.mikos.png,
+传感器,PTX,PTX 人体存在传感器,090615.sensor_occupy.mw,090615.sensor_occupy.mw.png,
+传感器,PTX,平头熊人体存在传感器(顶装版),090615.sensor_occupy.xw,090615.sensor_occupy.xw.png,
+传感器,ProTap,ProTap蓝牙温湿度计E1mini,ptkj.sensor_ht.e1mini,ptkj.sensor_ht.e1mini.png,
+传感器,ProTap,ProTap蓝牙温湿度计T1,ptkj.sensor_ht.t1,ptkj.sensor_ht.t1.png,
+传感器,RITERS,RITERS温湿度计2351,riters.sensor_ht.2351,riters.sensor_ht.2351.png,
+传感器,RSH,RSH蓝牙温湿度计,qjiang.sensor_ht.002,qjiang.sensor_ht.002.png,
+传感器,RTTPP R,多瑞燃气报警器,rttrp.sensor_gas.jy500,rttrp.sensor_gas.jy500.png,
+传感器,SWANHOME,SWAN HOME人体存在传感器,zksq.sensor_occupy.s2,zksq.sensor_occupy.s2.png,
+传感器,U-FAMILY,U-FAMILY WiFi 温湿度传感器U1,guixin.sensor_ht.wsdu1,guixin.sensor_ht.wsdu1.png,
+传感器,USP国际电工,USP国际电工水浸传感器,zhiee.flood.sj01,zhiee.flood.sj01.png,
+传感器,USP国际电工,USP国际电工门窗传感器,zhiee.magnet.mc01,zhiee.magnet.mc01.png,
+传感器,Yeelight,Yeelight Pro 人体传感器,yeelink.motion.ymt02,yeelink.motion.ymt02.png,
+传感器,Yeelight,Yeelight Pro 门窗传感器,yeelink.magnet.ycs02,yeelink.magnet.ycs02.png,
+传感器,Yeelight,Yeelight Z系列人在传感器,yeelink.sensor_occupy.1,yeelink.sensor_occupy.1.png,
+传感器,Yeelight,Yeelight 人体存在传感器,yeelink.sensor_occupy.a,yeelink.sensor_occupy.a.png,
+传感器,ZUZW,ZUZW智能蓝牙温湿度计,yutai.sensor_ht.wsd01,yutai.sensor_ht.wsd01.png,
+传感器,Zhiee,百将温湿度传感器,zhiee.sensor_ht.wsdj01,zhiee.sensor_ht.wsdj01.png,
+传感器,deli,得力蓝牙款电子温湿度计LE523BT,deli.sensor_ht.523bt,deli.sensor_ht.523bt.png,
+传感器,iotperfect,IoTPERFECT水浸传感器S01D,iotpfk.flood.001,iotpfk.flood.001.png,
+传感器,linptech,人体存在传感器（顶装PLC版）,linp.sensor_occupy.hb04,linp.sensor_occupy.hb04.png,
+传感器,linptech,领普人体存在传感器ES3,linp.sensor_occupy.es2,linp.sensor_occupy.es2.png,
+传感器,linptech 领普,领普人体传感器,linp.motion.h1,linp.motion.h1.png,
+传感器,linptech 领普,领普人体传感器2,linp.motion.hs1bb1,linp.motion.hs1bb1.png,
+传感器,linptech 领普,领普人体传感器3,linp.motion.hs1bb2,linp.motion.hs1bb2.png,
+传感器,linptech 领普,领普人体存在传感器,linp.sensor_occupy.hb01,linp.sensor_occupy.hb01.png,
+传感器,linptech 领普,领普人体存在传感器ES2,linp.sensor_occupy.es2b,linp.sensor_occupy.es2b.png,
+传感器,linptech 领普,领普人体存在传感器ES5,linp.sensor_occupy.es5b,linp.sensor_occupy.es5b.png,
+传感器,linptech 领普,领普人体存在传感器ES5（顶装版）,linp.sensor_occupy.es4b,linp.sensor_occupy.es4b.png,
+传感器,linptech 领普,领普压力有无传感器,linp.senpres.ps1bb,linp.senpres.ps1bb.png,
+传感器,linptech 领普,领普无线开关KS1Pro,linp.sensor_ht.ks1bp,linp.sensor_ht.ks1bp.png,
+传感器,linptech 领普,领普水浸及雨水传感器,linp.flood.rs1bb,linp.flood.rs1bb.png,
+传感器,linptech 领普,领普温湿度传感器,linp.sensor_ht.ks2bb,linp.sensor_ht.ks2bb.png,
+传感器,linptech 领普,领普门窗传感器,linp.magnet.m1,linp.magnet.m1.png,
+传感器,mitch,mitch人体存在传感器,googo.sensor_occupy.cgq,googo.sensor_occupy.cgq.png,
+传感器,乐天派,乐天派人在传感器Air,rhj.sensor_occupy.l730b,rhj.sensor_occupy.l730b.png,
+传感器,乐天派,乐天派人在传感器POP,rhj.sensor_occupy.l730a,rhj.sensor_occupy.l730a.png,
+传感器,乐天派,乐天派人在传感器POP2,rhj.sensor_occupy.l730d,rhj.sensor_occupy.l730d.png,
+传感器,乐天派,乐天派存在传感器Box,rhj.sensor_occupy.l730,rhj.sensor_occupy.l730.png,
+传感器,其他品牌,AInice三体场景传感器,ainice.sensor_occupy.3b,ainice.sensor_occupy.3b.png,
+传感器,其他品牌,AInice人体传感器,ainice.motion.bt,ainice.motion.bt.png,
+传感器,其他品牌,AInice双存在传感器,ainice.sensor_occupy.rd,ainice.sensor_occupy.rd.png,
+传感器,其他品牌,AInice电子围栏传感器,ainice.sensor_occupy.bt,ainice.sensor_occupy.bt.png,
+传感器,其他品牌,Gra人体存在传感器V1（BLE）,giot.sensor_occupy.v1ps,giot.sensor_occupy.v1ps.png,
+传感器,其他品牌,LX存在传感器,lxun.sensor_occupy.cz01,lxun.sensor_occupy.cz01.png,
+传感器,其他品牌,MiKO蓝牙温湿度计,hccy.sensor_ht.3bx321,hccy.sensor_ht.3bx321.png,
+传感器,其他品牌,QUMI趣米人体存在传感器,qjiang.sensor_occupy.qj,qjiang.sensor_occupy.qj.png,
+传感器,其他品牌,云檬宝 燃气报警器,mingpu.sensor_gas.det1,mingpu.sensor_gas.det1.png,
+传感器,其他品牌,博瑞思人体存在传感器,brains.sensor_occupy.r4,brains.sensor_occupy.r4.png,
+传感器,其他品牌,子擎存在传感器 Lite,izq.sensor_occupy.24,izq.sensor_occupy.24.png,
+传感器,其他品牌,得力温湿度计LE508,yoda.sensor_ht.le508,yoda.sensor_ht.le508.png,
+传感器,其他品牌,情景存在传感器,lemesh.sensor_occupy.s3,lemesh.sensor_occupy.s3.png,
+传感器,其他品牌,烟雾传感器,mirsz.sensor_smoke.s500,mirsz.sensor_smoke.s500.png,
+传感器,其他品牌,燃气传感器,mirsz.sensor_gas.ga500,mirsz.sensor_gas.ga500.png,
+传感器,其他品牌,罗威亚水浸传感器,mirsz.flood.wa500,mirsz.flood.wa500.png,
+传感器,其他品牌,罗威亚温湿度传感器,mirsz.sensor_ht.te500,mirsz.sensor_ht.te500.png,
+传感器,其他品牌,罗威亚温湿度传感器（无屏）,mirsz.sensor_ht.te110,mirsz.sensor_ht.te110.png,
+传感器,其他品牌,罗威亚红外人体移动传感器,mirsz.motion.ir500,mirsz.motion.ir500.png,
+传感器,其他品牌,罗威亚门窗传感器,mirsz.magnet.mc500,mirsz.magnet.mc500.png,
+传感器,其他品牌,迈睿人体存在传感器M1,merryt.sensor_occupy.m1,merryt.sensor_occupy.m1.png,
+传感器,子擎,子擎存在传感器 Ceiling,izq.sensor_occupy.24n,izq.sensor_occupy.24n.png,
+传感器,子擎,子擎存在传感器 Loong,izq.sensor_occupy.ble,izq.sensor_occupy.ble.png,
+传感器,子擎,子擎存在传感器 Solo,izq.sensor_occupy.solo,izq.sensor_occupy.solo.png,
+传感器,子擎,子擎存在传感器 Trio,izq.sensor_occupy.trio,izq.sensor_occupy.trio.png,
+传感器,小米出品,小米人体传感器,lumi.sensor_motion.v2,lumi.sensor_motion.v2.png,
+传感器,小米出品,小米人体传感器2,lumi.motion.bmgl01,lumi.motion.bmgl01.png,
+传感器,小米出品,小米人体传感器2S,xiaomi.motion.pir1,xiaomi.motion.pir1.png,
+传感器,小米出品,小米人在传感器,xiaomi.sensor_occupy.03,xiaomi.sensor_occupy.03.png,
+传感器,小米出品,小米人在传感器Pro,xiaomi.sensor_occupy.p1,xiaomi.sensor_occupy.p1.png,
+传感器,小米出品,小米光照传感器,lumi.sen_ill.mgl01,lumi.sen_ill.mgl01.png,
+传感器,小米出品,小米天然气卫士,lumi.sensor_gas.mcn02,lumi.sensor_gas.mcn02.png,
+传感器,小米出品,小米水浸卫士,lumi.flood.bmcn01,lumi.flood.bmcn01.png,
+传感器,小米出品,小米水浸卫士2,xiaomi.flood.oh83w,xiaomi.flood.oh83w.png,
+传感器,小米出品,小米温湿度传感器,lumi.sensor_ht.v1,lumi.sensor_ht.v1.png,
+传感器,小米出品,小米烟感卫士,lumi.sensor_smoke.mcn02,lumi.sensor_smoke.mcn02.png,
+传感器,小米出品,小米烟感卫士2,xiaomi.sensor_smoke.yg2,xiaomi.sensor_smoke.yg2.png,
+传感器,小米出品,小米电子温湿度计,miaomiaoce.sensor_ht.t6,miaomiaoce.sensor_ht.t6.png,
+传感器,小米出品,小米米家电子温湿度计Pro,miaomiaoce.sensor_ht.t8,miaomiaoce.sensor_ht.t8.png,
+传感器,小米出品,小米米家蓝牙温湿度计2,miaomiaoce.sensor_ht.t2,miaomiaoce.sensor_ht.t2.png,
+传感器,小米出品,小米门窗传感器,lumi.sensor_magnet.v2,lumi.sensor_magnet.v2.png,
+传感器,小米出品,小米门窗传感器2,isa.magnet.dw2hl,isa.magnet.dw2hl.png,
+传感器,小米出品,米家智能温湿度计3,miaomiaoce.sensor_ht.t9,miaomiaoce.sensor_ht.t9.png,
+传感器,小米出品,米家智能温湿度计3 mini,xiaomi.sensor_ht.mini,xiaomi.sensor_ht.mini.png,
+传感器,小米出品,米家蓝牙温湿度计,cleargrass.sensor_ht.dk1,cleargrass.sensor_ht.dk1.png,
+传感器,峥果,峥果温湿度计,zinguo.sensor_ht.t5,zinguo.sensor_ht.t5.png,
+传感器,德力西电气,德力西电气智能温湿度计DM-1095,yqll.sensor_ht.dm1095,yqll.sensor_ht.dm1095.png,
+传感器,执梦,执梦人体存在传感器,zywjw.sensor_occupy.c01,zywjw.sensor_occupy.c01.png,
+传感器,执梦,执梦门磁传感器,zywjw.magnet.zmmc,zywjw.magnet.zmmc.png,
+传感器,文光汇,文光汇温湿度计,sixwgh.sensor_ht.v1,sixwgh.sensor_ht.v1.png,
+传感器,斯曼诺客,SMLK门控传感器,giot.magnet.mkcgq,giot.magnet.mkcgq.png,
+传感器,斯曼诺客,SMLK门控传感器V1,giot.magnet.mkcgq1,giot.magnet.mkcgq1.png,
+传感器,方舟鱼,方舟鱼人体移动传感器TR1,line.motion.ftr1,line.motion.ftr1.png,
+传感器,方舟鱼,方舟鱼水浸传感器TW1,line.flood.ftw1,line.flood.ftw1.png,
+传感器,方舟鱼,方舟鱼温湿度传感器TH1,line.sensor_ht.fth1,line.sensor_ht.fth1.png,
+传感器,方舟鱼,方舟鱼温湿度传感器TH1S,line.sensor_ht.fth1s,line.sensor_ht.fth1s.png,
+传感器,方舟鱼,方舟鱼门窗传感器TM1,line.magnet.ftm1,line.magnet.ftm1.png,
+传感器,易慧家,易慧家雨水传感器3S,evecca.flood.rs001,evecca.flood.rs001.png,
+传感器,易知,易探人体存在传感器EDQ201-M,ed01.sensor_occupy.ed36,ed01.sensor_occupy.ed36.png,
+传感器,易知,易探人体存在传感器EDQ25M,ed01.sensor_occupy.ytld,ed01.sensor_occupy.ytld.png,
+传感器,智拉斐,智拉斐门磁传感器,slf.magnet.mc02,slf.magnet.mc02.png,
+传感器,杜克,杜克TH2墨水屏时钟温湿度计,duka.sensor_ht.th2,duka.sensor_ht.th2.png,
+传感器,柏晶,柏晶人体存在传感器,bogin8.sensor_occupy.bj,bogin8.sensor_occupy.bj.png,
+传感器,树色,树色太阳能人体及雨水传感器（BLE）,shuse.motion.ss20,shuse.motion.ss20.png,
+传感器,树色,树色水浸传感器Pro（BLE）,shuse.flood.sssj,shuse.flood.sssj.png,
+传感器,树色,树色水浸传感器Slim（BLE）,shuse.flood.ss40,shuse.flood.ss40.png,
+传感器,树色,树色水浸传感器（BLE）,shuse.flood.ss05,shuse.flood.ss05.png,
+传感器,树色,树色门磁传感器 （BLE）,shuse.magnet.ss03,shuse.magnet.ss03.png,
+传感器,树色,树色门磁传感器Pro（BLE）,shuse.magnet.ssmc,shuse.magnet.ssmc.png,
+传感器,欧微灵科,欧微灵科人体红外传感器,hly.sensor_occupy.m04lb,hly.sensor_occupy.m04lb.png,
+传感器,温度精灵,温度精灵温湿度计KD30,yongsh.sensor_ht.kd30,yongsh.sensor_ht.kd30.png,
+传感器,温度精灵,温度精灵温湿度计ST34,yongsh.sensor_ht.st34,yongsh.sensor_ht.st34.png,
+传感器,温度精灵,温度精灵温湿度计ST60,yongsh.sensor_ht.st60,yongsh.sensor_ht.st60.png,
+传感器,温度精灵,温度精灵温湿度计ST70,yongsh.sensor_ht.st70,yongsh.sensor_ht.st70.png,
+传感器,温心室爱,温心室爱温湿度计ZP-CDA05,zipu.sensor_ht.cda05,zipu.sensor_ht.cda05.png,
+传感器,炎米,炎米智能温湿度计,ym001.sensor_ht.ymwsdj,ym001.sensor_ht.ymwsdj.png,
+传感器,狄耐克,狄耐克人体存在传感器,dnake.sensor_occupy.cz1,dnake.sensor_occupy.cz1.png,
+传感器,目博士,目博士温湿度计MBS-16,vchon.sensor_ht.mbs16,vchon.sensor_ht.mbs16.png,
+传感器,目博士,目博士温湿度计MBS-17,vchon.sensor_ht.mbs17,vchon.sensor_ht.mbs17.png,
+传感器,目博士,目博士温湿度计MBS-20,vchon.sensor_ht.mbs20,vchon.sensor_ht.mbs20.png,
+传感器,目博士,目博士温湿度计MBS-7,vchon.sensor_ht.mbs7,vchon.sensor_ht.mbs7.png,
+传感器,秒秒测,秒秒测智能语音闹钟,miaomiaoce.sensor_ht.a1,miaomiaoce.sensor_ht.a1.png,
+传感器,秒秒测,秒秒测蓝牙温湿度计,miaomiaoce.sensor_ht.h1,miaomiaoce.sensor_ht.h1.png,
+传感器,秒秒测,秒秒测蓝牙温湿度计2,miaomiaoce.sensor_ht.t4,miaomiaoce.sensor_ht.t4.png,
+传感器,罗威亚,罗威亚人体存在传感器MIR-HE1-BT,mirsz.sensor_occupy.h01,mirsz.sensor_occupy.h01.png,
+传感器,罗威亚,罗威亚门窗开关传感器,mirsz.magnet.yf4,mirsz.magnet.yf4.png,
+传感器,美德时,美德时蓝牙温湿度计TH7M,anymetre.sensor_ht.th7m,anymetre.sensor_ht.th7m.png,
+传感器,苏米科技,苏米存在传感器,xhuan.sensor_occupy.s01,xhuan.sensor_occupy.s01.png,
+传感器,莱盾,LD人体存在传感器（BLE）,laidun.sensor_occupy.02,laidun.sensor_occupy.02.png,
+传感器,菱敏,菱敏人在传感器,rinmin.sensor_occupy.lm,rinmin.sensor_occupy.lm.png,
+传感器,觅感,MG人体存在传感器V2（BLE）,ms2021.sensor_occupy.mg,ms2021.sensor_occupy.mg.png,
+传感器,迪智客,迪智客存在传感器DK21,jysj.sensor_occupy.dk21,jysj.sensor_occupy.dk21.png,
+传感器,钻石,钻石水浸传感器,uimeen.flood.rmsjb,uimeen.flood.rmsjb.png,
+传感器,雁派,雁派门磁传感器,zlyj88.magnet.ypmc1,zlyj88.magnet.ypmc1.png,
+传感器,霍尼韦尔,家用可燃气体探测器,yuemee.sensor_gas.56712,yuemee.sensor_gas.56712.png,
+传感器,青萍,李吉他蓝牙温湿度计,cgllc.sensor_ht.cgm1,cgllc.sensor_ht.cgm1.png,
+传感器,青萍,青萍动作和环境光传感器,cgllc.motion.cgpr1,cgllc.motion.cgpr1.png,
+传感器,青萍,青萍温湿度计 Lite（7 号电池）,cgllc.sensor_ht.cgdk3,cgllc.sensor_ht.cgdk3.png,
+传感器,青萍,青萍温湿度计（7 号电池）,cgllc.sensor_ht.cgg3,cgllc.sensor_ht.cgg3.png,
+传感器,青萍,青萍蓝牙温湿度计Lite（纽扣电池）,cgllc.sensor_ht.dk2,cgllc.sensor_ht.dk2.png,
+传感器,青萍,青萍蓝牙温湿度计（纽扣电池）,cgllc.sensor_ht.qpg1,cgllc.sensor_ht.qpg1.png,
+传感器,青萍,青萍门窗开合传感器,cgllc.magnet.hodor,cgllc.magnet.hodor.png,
+传感器,高事达,高事达PLC人体存在传感器(24G),gaosd.sensor_occupy.grd,gaosd.sensor_occupy.grd.png,
+传感器,麦乐克,罗威亚TE700温湿度传感器,mirsz.sensor_ht.ht02,mirsz.sensor_ht.ht02.png,
+传感器,GeLuoM,格罗姆红外人体传感器,grom.sensor_occupy.pir,grom.sensor_occupy.pir.png,
+传感器,RSH,RSH温湿度计WiFi款,rsh.sensor_ht.1,rsh.sensor_ht.1.png,
+传感器,兴智连,兴智连温湿度计,hx888.sensor_ht.hxwb,hx888.sensor_ht.hxwb.png,
+传感器,小海,小海・久安烟雾传感器,bkxh.sensor_smoke.s1,bkxh.sensor_smoke.s1.png,
+传感器,小海,小海・久安燃气泄露传感器,bkxh.sensor_gas.s2,bkxh.sensor_gas.s2.png,
+传感器,小海,小海・久安门窗传感器,bkxh.magnet.yf01,bkxh.magnet.yf01.png,
+传感器,悠觅,悠觅温湿度传感器,tofan.sensor_ht.ht01,tofan.sensor_ht.ht01.png,
+传感器,智安莱,智安莱人体存在传感器,tad.sensor_occupy.zalrc,tad.sensor_occupy.zalrc.png,
+传感器,智拉斐,智拉斐人在传感器CG1,slf.sensor_occupy.exist,slf.sensor_occupy.exist.png,
+传感器,木林森照明,MLS星觅传感器,mlszm.sensor_occupy.rc1,mlszm.sensor_occupy.rc1.png,
+传感器,树色,树色人体红外传感器（BLE）,shuse.motion.sshw1,shuse.motion.sshw1.png,
+传感器,欧微灵科,欧微灵科人存传感器,hly.sensor_occupy.m08lb,hly.sensor_occupy.m08lb.png,
+传感器,罗威亚,罗威亚人体移动传感器,mirsz.sensor_occupy.yf3,mirsz.sensor_occupy.yf3.png,
+传感器,小海,小海・久安水浸传感器,bkxh.flood.yf02,bkxh.flood.yf02.png,
+传感器,公牛,公牛门窗传感器,bull.magnet.yf01,bull.magnet.yf01.png,
+传感器,公牛,公牛温湿度传感器,bull.sensor_ht.t01e1c,bull.sensor_ht.t01e1c.png,
+传感器,公牛,公牛人体移动传感器,bull.sensor_occupy.yf02,bull.sensor_occupy.yf02.png,
+传感器,徕亮,小徕智存人体存在传感器,laig.sensor_occupy.cgq,laig.sensor_occupy.cgq.png,
+传感器,文光汇,文光汇水浸传感器,sixwgh.flood.sj01,sixwgh.flood.sj01.png,
+传感器,AImLbS,AImLbS智能温湿度计,wiing.sensor_ht.wsd01,wiing.sensor_ht.wsd01.png,
+传感器,小米出品,米家智能温湿度计3 Pro,xiaomi.sensor_ht.new3pr,xiaomi.sensor_ht.new3pr.png,
+传感器,圣络维,圣络维人体存在传感器S2,ygzl.sensor_occupy.s2,ygzl.sensor_occupy.s2.png,
