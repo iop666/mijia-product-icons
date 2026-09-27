@@ -63,7 +63,7 @@
 - 该示例样图库服务于 **MiHome-Windows（custom 版）**（<https://github.com/iop666/MiHome-Windows>）：用作其虚拟测试家庭（mock）的离线产品样图素材；
 - 素材采集与清单整理脚本为一次性工具，未随本仓库分发；
 - 本仓库整理工作由 DeepSeek Harness 辅助完成；
-- 大体积打包文件（`MiHome-icons-ALL.zip` 全部示例样图包、17 个按大类压缩包）存放于本仓库 Releases：<https://github.com/iop666/mijia-product-icons/releases>
+- 各期快照以日期 tag 发布（如 `2026-09-28`），在 Releases 页面可直接下载该期完整源码包；`aux.*` 保留名图片以补充包附件形式提供：<https://github.com/iop666/mijia-product-icons/releases>
 
 ## 版权与使用声明
 
