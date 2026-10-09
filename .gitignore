@@ -1,0 +1,51 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / 编辑器私有配置
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.zcodeignore
+
+# Agent / 助手工作痕迹
+.workbuddy-ai/
+.agent/
+.agent-work/
+.ai/
+.cursor/
+.claude/
+copilot/
+planning/
+plans/
+tasks/
+work/
+scratch/
+
+# 日志与临时文件
+logs/
+tmp/
+temp/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# 本机信息与密钥（严禁提交）
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.*
+secrets.*
+
+# 注意：本仓库【不忽略】*.old
+# 型号.old.png 是正式资源——型号 id 被新设备复用时保留的旧图，必须提交。
+# 也不要忽略 *.png / *.jpg / *.gif / *.webp，示例样图是本仓库的主体内容。
