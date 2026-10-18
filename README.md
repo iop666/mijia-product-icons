@@ -2,6 +2,8 @@
 
 > 米家（Xiaomi Mi Home）在架产品示例样图快照库。图片与配套清单已按大类整理，供个人学习、研究与软件测试使用。
 
+配套浏览/预览应用：**[米家产品示例图库 · mijia-product-gallery](https://github.com/iop666/mijia-product-gallery)** —— 一个 WinUI 3 桌面应用，把本库的 10,000+ 张产品示例样图做成可离线浏览、搜索、筛选、收藏、导出的图库。本仓库即它的数据源。
+
 - 数据来源：米家百科公开产品库 <https://home.mi.com/webapp/content/baike/index.html#/>
 - 快照日期：**2026-10-19**（当天从在线产品库接口采集，属"在架产品库"时点快照；上一期快照为 2026-10-09，见[更新清单/更新清单_2026-10-19.md](更新清单/更新清单_2026-10-19.md)）
 - 覆盖范围：**17 个大类 / 10,696 个在架产品型号 / 10,695 张在架示例样图**（其中 1 个型号采集时无图，位于"环境电器"类）；另**保留 16 个官网已移除型号**的信息与样图备查
@@ -66,7 +68,8 @@
 
 ## 应用信息
 
-- 该示例样图库服务于 **MiHome-Windows（custom 版）**（<https://github.com/iop666/MiHome-Windows>）：用作其虚拟测试家庭（mock）的离线产品样图素材；
+- 该示例样图库是 **[米家产品示例图库 · mijia-product-gallery](https://github.com/iop666/mijia-product-gallery)** 的数据源：一个基于 WinUI 3 的 Windows 桌面应用，用于离线浏览、搜索、筛选、收藏、导出本库的全部米家/生态链产品示例样图；
+- 同时也服务于 **MiHome-Windows（custom 版）**（<https://github.com/iop666/MiHome-Windows>）：用作其虚拟测试家庭（mock）的离线产品样图素材；
 - 素材采集与清单整理脚本为一次性工具，未随本仓库分发；
 - 本仓库整理工作由 DeepSeek Harness 辅助完成；
 - 各期快照以日期 tag 发布（如 `2026-09-28`），在 Releases 页面可直接下载该期完整源码包；`aux.*` 保留名图片以补充包附件形式提供：<https://github.com/iop666/mijia-product-icons/releases>
