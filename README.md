@@ -1,5 +1,7 @@
 # 米家产品示例样图库 · mijia-product-icons
 
+简体中文 | [English](README.en.md)
+
 > 米家（Xiaomi Mi Home）在架产品示例样图快照库。图片与配套清单已按大类整理，供个人学习、研究与软件测试使用。
 
 配套浏览/预览应用：**[米家产品示例图库 · mijia-product-gallery](https://github.com/iop666/mijia-product-gallery)** —— 一个 WinUI 3 桌面应用，把本库的 10,000+ 张产品示例样图做成可离线浏览、搜索、筛选、收藏、导出的图库。本仓库即它的数据源。
@@ -17,6 +19,7 @@
 
 ```
 ├─ README.md
+├─ README.en.md               English version of this file
 ├─ THIRD-PARTY-NOTICES.md     第三方内容声明（英文版）
 ├─ 更新清单/                各期更新明细（每期一份，按日期命名）
 │   ├─ 更新清单_2026-09-28.md     2026-09-03 → 2026-09-28 的更新明细
