@@ -7,13 +7,13 @@
 Companion viewer app: **[mijia-product-gallery](https://github.com/iop666/mijia-product-gallery)** — a WinUI 3 desktop app that turns this library's 10,000+ product sample images into an offline-browsable gallery with search, filtering, favorites, and export. This repository is its data source.
 
 - Data source: Mi Home public product encyclopedia <https://home.mi.com/webapp/content/baike/index.html#/>
-- Snapshot date: **2026-11-03** (collected from the online product library API on that day; a point-in-time snapshot of the "currently listed" library. Previous snapshot: 2026-10-25, see [更新清单/更新清单_2026-11-03.md](更新清单/更新清单_2026-11-03.md) — change logs are written in Chinese)
-- Coverage: **17 categories / 10,847 currently listed product models / 10,846 currently listed sample images** (1 model has no image, in "Environmental Appliances"); additionally, **20 models removed from the official website** are retained with their info and images for reference
+- Snapshot date: **2026-11-08** (collected from the online product library API on that day; a point-in-time snapshot of the "currently listed" library. Previous snapshot: 2026-11-03, see [更新清单/更新清单_2026-11-08.md](更新清单/更新清单_2026-11-08.md) — change logs are written in Chinese)
+- Coverage: **17 categories / 10,868 currently listed product models / 10,867 currently listed sample images** (1 model has no image, in "Environmental Appliances"); additionally, **22 models removed from the official website** are retained with their info and images for reference
 - Image format: saved in the original format, with extensions `.png` / `.jpg` / `.gif` / `.webp`
 - File naming: sample image file name = product model, e.g. `zhimi.heater.za1.png`
 - Category rule: "New Arrivals" (新上线) is a rolling shelf on the Mi Home encyclopedia. Models on that shelf are always assigned to their real category; only models that do not yet appear in any real category stay under "New Arrivals" (currently 1). Every model is counted exactly once across the whole library.
 - Retention policy: models removed from the official website are **never deleted locally** — their catalog rows are kept in place in every CSV with the note 「官网已移除该型号」 (removed from the official website), and their images stay in the image directories
-- Windows checkout note: 2 images have file names starting with the Windows reserved device name `aux.` (`aux.aircondition.hc1.png`, `aux.aircondition.v1.png`, in "Environmental Appliances"). Windows cannot check out/extract such file names, so they are excluded from the repository tree; all 10,866 images are available in the Release archives
+- Windows checkout note: 2 images have file names starting with the Windows reserved device name `aux.` (`aux.aircondition.hc1.png`, `aux.aircondition.v1.png`, in "Environmental Appliances"). Windows cannot check out/extract such file names, so they are excluded from the repository tree; all 10,889 images are available in the Release archives
 
 ## Repository Layout
 
@@ -26,8 +26,9 @@ Companion viewer app: **[mijia-product-gallery](https://github.com/iop666/mijia-
 │   ├─ 更新清单_2026-10-09.md     2026-09-28 → 2026-10-09 changes
 │   ├─ 更新清单_2026-10-19.md     2026-10-09 → 2026-10-19 changes
 │   ├─ 更新清单_2026-10-25.md     2026-10-19 → 2026-10-25 changes
-│   └─ 更新清单_2026-11-03.md     2026-10-25 → 2026-11-03 changes
-├─ 全部示例样图/                   10,864 sample images (flat, named by model)
+│   ├─ 更新清单_2026-11-03.md     2026-10-25 → 2026-11-03 changes
+│   └─ 更新清单_2026-11-08.md     2026-11-03 → 2026-11-08 changes
+├─ 全部示例样图/                   10,887 sample images (flat, named by model)
 ├─ 分类示例样图/                   Sample images grouped by category
 │   ├─ 插座开关/                   (Sockets & Switches)
 │   ├─ 照明/                       (Lighting)
@@ -44,16 +45,16 @@ Companion viewer app: **[mijia-product-gallery](https://github.com/iop666/mijia-
 
 | Category | Sample images |
 |---|---:|
-| Sockets & Switches (插座开关) | 3104 |
-| Lighting (照明) | 2291 |
+| Sockets & Switches (插座开关) | 3115 |
+| Lighting (照明) | 2297 |
 | Personal Care & Living (个护与起居) | 1166 |
-| Environmental Appliances (环境电器) | 1124 (1,125 models, 1 without image) |
+| Environmental Appliances (环境电器) | 1125 (1,126 models, 1 without image) |
 | Kitchen Appliances (厨房电器) | 657 |
 | Bathroom (卫浴) | 496 |
-| Cleaning Appliances (清洁电器) | 474 |
-| Security (安防) | 458 |
+| Cleaning Appliances (清洁电器) | 475 |
+| Security (安防) | 459 |
 | Sports & Health (运动健康) | 408 |
-| Audio & Video (影音娱乐) | 201 |
+| Audio & Video (影音娱乐) | 202 |
 | Sensors (传感器) | 199 |
 | Routers & Gateways (路由网关) | 93 |
 | Pets & Plants (宠物与植物) | 54 |
@@ -61,9 +62,9 @@ Companion viewer app: **[mijia-product-gallery](https://github.com/iop666/mijia-
 | Others (其他) | 40 |
 | Travel & In-Car (出行车载) | 38 |
 | New Arrivals (新上线) | 1 |
-| **Total** | **10846** |
+| **Total** | **10867** |
 
-> Note: the table above counts **currently listed** assets only; each row is the count of listed sample images in that period's catalog (CSV) and matches the total. The 20 sample images of officially removed models are still kept in the directory tree (each directory holds additional retained images beyond the numbers above); the 2 `aux.*` images in "Environmental Appliances" cannot be checked out on Windows due to reserved device names, so the repository's `全部示例样图/` and `分类示例样图/` trees each contain 10,864 images (10,844 listed + 20 retained); all 10,866 images are available in the Release archives.
+> Note: the table above counts **currently listed** assets only; each row is the count of listed sample images in that period's catalog (CSV) and matches the total. The 22 sample images of officially removed models are still kept in the directory tree (each directory holds additional retained images beyond the numbers above); the 2 `aux.*` images in "Environmental Appliances" cannot be checked out on Windows due to reserved device names, so the repository's `全部示例样图/` and `分类示例样图/` trees each contain 10,887 images (10,865 listed + 22 retained); all 10,889 images are available in the Release archives.
 >
 > Data-quality note: in the 2026-10-25 snapshot, 6 rows of this table were mistakenly computed from directory-tree file counts (including retained images of removed models), which did not match the total. That period has been corrected back to the listed basis, including its change log and Release notes. The 2026-09-28 / 2026-10-09 / 2026-10-19 periods were already on the listed basis and were correct.
 
